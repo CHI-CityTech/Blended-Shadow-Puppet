@@ -1,13 +1,6 @@
 # Proposed Hierarchical Structure for World-Building
 
 
-
-Example Structure:
-Region (e.g., "Northern Kingdom")
-City/Town (e.g., "Capital City")
-Neighborhood (e.g., "Downtown")
-Landmark (e.g., "Great Mountain")
-
    - The overarching category containing all other geographical and cultural features.
 1. **Geographical** (General Category)
    - Continent/Ocean
@@ -19,36 +12,35 @@ Landmark (e.g., "Great Mountain")
    - Environment
      - Climate Zone (e.g. temperate, arctic)
      - Terrain Type (e.g., plains, mountains)
-8. **Character**
-   - **Person**
-   - **Deity**
+2. **Character** investirage [Character Sheet](https://www.worldanvil.com/features/interactive-character-sheets-statblocks)
+   - Person
+   - Deity
+   - Creature
+3. **History**
+   - Event (with date) investigate [Timeline](https://www.worldanvil.com/learn/timelines/timelines)
+   - Period (with start and end dates)
+       - Types of History (political, military, cultural, etc.)
+         - would be a tagging system
+4. **Organization**
+   - Country
+   - Political 
+      - Political Faction** (linked to Countries or Organizations)
+      - **Government Types**
 
-
-4. **Political**
-   - **Country** (linked to Areas)
-   - **Political Faction** (linked to Countries or Organizations)
-   - **Government Types**
-   - **Laws and Regulations**
-   - **International Organizations** (e.g., alliances, treaties)
-
-5. **Economics**
+6. **Economics**
    - **Economic System** (e.g., capitalism, socialism)
    - **Trade Routes** 
    - **Major Industries**
    - **Currency Types**
 
-6. **Culture**
-   - **Philosophy** (including Religion as a subcategory)
-   - **Art** 
-   - **Traditions and Customs**
-   - **Language**
+7. **Culture**
+   - Philosophy (including Religion as a subcategory)
+   - Art 
+   - Traditions and Customs
+      - 
+   - Language
 
-7. **History**
-   - **Event** (with date)
-   - **Period** (with start and end dates)
-       - **Types of History** (political, military, cultural, etc.)
-         - would be a tagging system
-           
+
 
 9. **Mythology and Lore**
    - **Legends** 
