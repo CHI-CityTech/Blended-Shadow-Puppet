@@ -2,7 +2,7 @@
 
 
    - The overarching category containing all other geographical and cultural features.
-1. **Geographical** (General Category)
+1. **Geographical** (General Category) - SPACE
    - Continent/Ocean
      - Region
        - Landmark
@@ -12,16 +12,16 @@
    - Environment
      - Climate Zone (e.g. temperate, arctic)
      - Terrain Type (e.g., plains, mountains)
-2. **Character** investirage [Character Sheet](https://www.worldanvil.com/features/interactive-character-sheets-statblocks)
+2. **Character**  - AGENTinvestigate [Character Sheet](https://www.worldanvil.com/features/interactive-character-sheets-statblocks)
    - Person
    - Deity
    - Creature
-3. **History**
+3. **History** - TIME
    - Event (with date) investigate [Timeline](https://www.worldanvil.com/learn/timelines/timelines)
    - Period (with start and end dates)
        - Types of History (political, military, cultural, etc.)
          - would be a tagging system
-4. **Organization**
+4. **Organization** - GROUP
    - Country
    - Political 
       - Political Faction** (linked to Countries or Organizations)
