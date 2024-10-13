@@ -51,7 +51,7 @@ This Document is divided into two sections:  Overall deliverables by Category, a
    - Creating an illustrated book featuring the script, character designs, and visuals from the shadow puppet performances.
 
 ### Project Coordination and Documentation
-1. **Project Management Tools**: Begun  
+1. **Project Management Tools**: Begum  
    - Organizing and updating digital platforms for project resource coordination.
 
 ## Projects by Team Member  
@@ -90,7 +90,7 @@ This Document is divided into two sections:  Overall deliverables by Category, a
   - Illustrated Book Creation: Develop an illustrated book featuring the script, character designs, and scenes with puppeteers, creating a rich visual and narrative experience.
   - World-Building: Contribute to the creation of a detailed and immersive world, expanding the narrative’s depth and visual design throughout the project.
     
-## Priya Begun  
+## Priya Begum  
 - **Study Type**: Internship  
 - **Proposal**: [Project Management and Coordination of Online Resources](https://docs.google.com/document/d/1-zqDTzT1-qFCXH0JD6zMqpXDfrvb6A2uWM_DEsm3pNE/edit?)
 - To support the Center of Holistic Integration by organizing and managing information resources, updating digital platforms, and coordinating meta projects such as the CUNY Anti-Hate Initiative ("Shedding Light") and the Blended Shadow Puppet Project (BSPP). The intern will enhance the center's operational efficiency by ensuring resources are accessible, up-to-date, and effectively managed across various platforms, including Google Sites, Discord, GitHub, and potentially social media platforms.
