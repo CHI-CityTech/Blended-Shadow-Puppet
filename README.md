@@ -1,6 +1,3 @@
-# Blended-Shadow-Puppet
-
-Copy code
 # Blended Shadow Puppet (BSP) Project
 
 The **Blended Shadow Puppet (BSP) Project** is an expansive, cross-disciplinary initiative that explores various art forms and research studies, all while building a cohesive fictional world canon. The project is rooted in the identification and respectful transformation of cultural and historical traditions, particularly those related to shadow puppetry, into new, imaginative narratives and creations.
