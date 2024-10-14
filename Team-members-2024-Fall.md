@@ -56,14 +56,9 @@ This Document is divided into two sections:  Overall deliverables by Category, a
 
 ## Projects by Team Member  
 
-## Edward Gonzalez  
-- **Study Type**: Independent Study  
-- **Proposal**: [Integrating Generative AI with QLab](https://www.dropbox.com/scl/fi/nmf8zk917xw15bzds1um0/Independent-Study-Edward-Gonzalez-Fall-2024-Research-Proposal_-Integrating-Generative-AI-with-QLab-Using-Open-Sound-Control-OSC.pdf)
-  - Integrate an existing Generative AI (GAI) API with Open Sound Control (OSC) commands to manage media in QLab.
-  - Load QLab with a range of media types (audio, video, lighting) for dynamic control by the AI.
-  - Create a feedback mechanism that allows human users to train the AI by selecting preferred outputs.
-  - Test the system in a live or simulated performance setting.
-  - Analyze the results to assess the effectiveness of AI-driven media control and the impact of human feedback.
+## Sam Cheung & Tshari Yancey (BSP Theatre Student Leaders)  
+- **Project**: World Building
+- **Project**: Planning for Production 2 in Spring 2025
 
 ## Sam Cheung  
 - **Study Type**: Culmination Project  
@@ -77,9 +72,6 @@ This Document is divided into two sections:  Overall deliverables by Category, a
   - Explore AI collaboration for the creation of these assetsartificial intelligence.
   - Contribute to the asset library for this project
 
-## Sam Cheung & Tshari Yancey  
-- **Project**: World Building
-
 ## Tshari Yancey  
 - **Study Type**: Emerging Scholar
 - **Proposal**: [Reimagining Wayang Kulit: A Modern Storytelling Approach](https://docs.google.com/document/d/1rmCygzSqFIW71gwrwRgOOHxS-eqSIdOP1MMM0oZSp9o/edit?usp=sharing)
@@ -90,6 +82,15 @@ This Document is divided into two sections:  Overall deliverables by Category, a
   - Illustrated Book Creation: Develop an illustrated book featuring the script, character designs, and scenes with puppeteers, creating a rich visual and narrative experience.
   - World-Building: Contribute to the creation of a detailed and immersive world, expanding the narrative’s depth and visual design throughout the project.
     
+## Edward Gonzalez  
+- **Study Type**: Independent Study  
+- **Proposal**: [Integrating Generative AI with QLab](https://www.dropbox.com/scl/fi/nmf8zk917xw15bzds1um0/Independent-Study-Edward-Gonzalez-Fall-2024-Research-Proposal_-Integrating-Generative-AI-with-QLab-Using-Open-Sound-Control-OSC.pdf)
+  - Integrate an existing Generative AI (GAI) API with Open Sound Control (OSC) commands to manage media in QLab.
+  - Load QLab with a range of media types (audio, video, lighting) for dynamic control by the AI.
+  - Create a feedback mechanism that allows human users to train the AI by selecting preferred outputs.
+  - Test the system in a live or simulated performance setting.
+  - Analyze the results to assess the effectiveness of AI-driven media control and the impact of human feedback.
+
 ## Priya Begum  
 - **Study Type**: Internship  
 - **Proposal**: [Project Management and Coordination of Online Resources](https://docs.google.com/document/d/1-zqDTzT1-qFCXH0JD6zMqpXDfrvb6A2uWM_DEsm3pNE/edit?)
