@@ -56,23 +56,22 @@ This Document is divided into two sections:  Overall deliverables by Category, a
 
 ## Projects by Team Member  
 
-## Sam Cheung & Tshari Yancey (BSP Theatre Student Leaders)  
-- **Project**: World Building
+### Sam Cheung & Tshari Yancey (BSP Theatre Student Leaders)  
+- **Project**: World Building Management
 - **Project**: Planning for Production 2 in Spring 2025
 
-## Sam Cheung  
+### Sam Cheung  
 - **Study Type**: Culmination Project  
 - **Project**: Creating a Twine interactive game based on the BSP core story  
 - **Focus**: Using AI to create imagery for the game  
 
-## Sam Cheung  
 - **Study Type**: Emerging Scholar  
 - **Proposal**: [Exploring Artificial Intelligence in Blended Shadow Puppet](https://www.dropbox.com/scl/fi/idemrtr2im9w5b7wpkqgj/Cheung-Sam-ESP-Proposal-2024-Fall.docx?rlkey=f92lyxdu4ipeugnn492p38734&st=7unacdf0&dl=0)
   - Developing technical elements to be incorporated into the BSPT project
   - Explore AI collaboration for the creation of these assetsartificial intelligence.
   - Contribute to the asset library for this project
 
-## Tshari Yancey  
+### Tshari Yancey  
 - **Study Type**: Emerging Scholar
 - **Proposal**: [Reimagining Wayang Kulit: A Modern Storytelling Approach](https://docs.google.com/document/d/1rmCygzSqFIW71gwrwRgOOHxS-eqSIdOP1MMM0oZSp9o/edit?usp=sharing)
   - Screenwriting & Story Development: Create a modern adaptation of a traditional Wayang Kulit story, blending contemporary themes with cultural respect.
@@ -82,7 +81,7 @@ This Document is divided into two sections:  Overall deliverables by Category, a
   - Illustrated Book Creation: Develop an illustrated book featuring the script, character designs, and scenes with puppeteers, creating a rich visual and narrative experience.
   - World-Building: Contribute to the creation of a detailed and immersive world, expanding the narrative’s depth and visual design throughout the project.
     
-## Edward Gonzalez  
+### Edward Gonzalez  
 - **Study Type**: Independent Study  
 - **Proposal**: [Integrating Generative AI with QLab](https://www.dropbox.com/scl/fi/nmf8zk917xw15bzds1um0/Independent-Study-Edward-Gonzalez-Fall-2024-Research-Proposal_-Integrating-Generative-AI-with-QLab-Using-Open-Sound-Control-OSC.pdf)
   - Integrate an existing Generative AI (GAI) API with Open Sound Control (OSC) commands to manage media in QLab.
@@ -91,12 +90,12 @@ This Document is divided into two sections:  Overall deliverables by Category, a
   - Test the system in a live or simulated performance setting.
   - Analyze the results to assess the effectiveness of AI-driven media control and the impact of human feedback.
 
-## Priya Begum  
+### Priya Begum  
 - **Study Type**: Internship  
 - **Proposal**: [Project Management and Coordination of Online Resources](https://docs.google.com/document/d/1-zqDTzT1-qFCXH0JD6zMqpXDfrvb6A2uWM_DEsm3pNE/edit?)
 - To support the Center of Holistic Integration by organizing and managing information resources, updating digital platforms, and coordinating meta projects such as the CUNY Anti-Hate Initiative ("Shedding Light") and the Blended Shadow Puppet Project (BSPP). The intern will enhance the center's operational efficiency by ensuring resources are accessible, up-to-date, and effectively managed across various platforms, including Google Sites, Discord, GitHub, and potentially social media platforms.
 
-## Hugo Sanchez  
+### Hugo Sanchez  
 - **Study Type**: Internship  
 - **Proposal**: [Character Creation and Asset Development for Blended Shadow Puppet Game Environment in Unity](https://docs.google.com/document/d/1D0gLshPyi1vUYD-bbPJFFzqs0kgrPUw-iIuQubf28-I/edit?usp=sharing)
   - **Character Creation:** Working with World Building Team, develop a new character based on traditional Javanese shadow puppet aesthetics, incorporating both classical traits and modernized design elements.
@@ -109,7 +108,7 @@ This Document is divided into two sections:  Overall deliverables by Category, a
   - **Unity Integration:** Implement the developed assets and character into the Unity game environment, ensuring technical compatibility and aesthetic cohesion.
   - **Documentation** Document and archive all assets and research outcomes in appriorpriate databases.
 
-## John Powell  
+### John Powell  
 - **Study Type**: Internship  
 - **Proposal**: [Narrative Design Intern for Blended Shadow Puppet Project](https://docs.google.com/document/d/1pVfn8B1TqrQNmJ44UVW2rspqUWiWgy9w2FmLZ3M84Ps/edit?usp=sharing)  
 - **Responsibilities**:  
@@ -120,7 +119,7 @@ This Document is divided into two sections:  Overall deliverables by Category, a
   - **Cultural and Artistic Research**: Conduct cultural research on shadow puppetry traditions to inform narrative, character, and world-building elements.
   - **General Project Support**: Provide overall project support, including collaboration, documentation, and iterative feedback across all development areas.
 
-## Anthony Navarro  
+### Anthony Navarro  
 - **Study Type**: Internship  
 - **Project**: [Live Sound Engineering for Blended Shadow Puppet Theatre (BSPT)](https://docs.google.com/document/d/1pVfn8B1TqrQNmJ44UVW2rspqUWiWgy9w2FmLZ3M84Ps/edit?usp=sharing)  
 - **Focus Areas**:  
@@ -130,7 +129,7 @@ This Document is divided into two sections:  Overall deliverables by Category, a
   - Audio System Development  
   - Documentation  
 
-## ZiXuan Wu  
+### ZiXuan Wu  
 - **Study Type**: Emerging Scholar  
 - **Project**: [Developing a Pilot Framework for a Virtual Shadow Puppet Environment in Unity](https://docs.google.com/document/d/1UoSoRh92cBWeNtSiAnUXcZU599Yx5aYTUMWtZclv-w4/edit?usp=sharing)
   - **Set Up Development Environment**: Install and configure Unity and necessary tools, and learn the interface for basic scene setup.
