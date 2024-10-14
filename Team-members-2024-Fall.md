@@ -56,6 +56,9 @@ This Document is divided into two sections:  Overall deliverables by Category, a
 
 ## Projects by Team Member  
 
+### Dr.David B. Smith
+- **Project** Overall Project Management.
+
 ### Sam Cheung & Tshari Yancey (BSP Theatre Student Leaders)  
 - **Project**: World Building Management
 - **Project**: Planning for Production 2 in Spring 2025
@@ -81,6 +84,11 @@ This Document is divided into two sections:  Overall deliverables by Category, a
   - Illustrated Book Creation: Develop an illustrated book featuring the script, character designs, and scenes with puppeteers, creating a rich visual and narrative experience.
   - World-Building: Contribute to the creation of a detailed and immersive world, expanding the narrative’s depth and visual design throughout the project.
     
+### Priya Begum  
+- **Study Type**: Internship  
+- **Proposal**: [Project Management and Coordination of Online Resources](https://docs.google.com/document/d/1-zqDTzT1-qFCXH0JD6zMqpXDfrvb6A2uWM_DEsm3pNE/edit?)
+- To support the Center of Holistic Integration by organizing and managing information resources, updating digital platforms, and coordinating meta projects such as the CUNY Anti-Hate Initiative ("Shedding Light") and the Blended Shadow Puppet Project (BSPP). The intern will enhance the center's operational efficiency by ensuring resources are accessible, up-to-date, and effectively managed across various platforms, including Google Sites, Discord, GitHub, and potentially social media platforms.
+
 ### Edward Gonzalez  
 - **Study Type**: Independent Study  
 - **Proposal**: [Integrating Generative AI with QLab](https://www.dropbox.com/scl/fi/nmf8zk917xw15bzds1um0/Independent-Study-Edward-Gonzalez-Fall-2024-Research-Proposal_-Integrating-Generative-AI-with-QLab-Using-Open-Sound-Control-OSC.pdf)
@@ -90,10 +98,26 @@ This Document is divided into two sections:  Overall deliverables by Category, a
   - Test the system in a live or simulated performance setting.
   - Analyze the results to assess the effectiveness of AI-driven media control and the impact of human feedback.
 
-### Priya Begum  
+### Anthony Navarro  
 - **Study Type**: Internship  
-- **Proposal**: [Project Management and Coordination of Online Resources](https://docs.google.com/document/d/1-zqDTzT1-qFCXH0JD6zMqpXDfrvb6A2uWM_DEsm3pNE/edit?)
-- To support the Center of Holistic Integration by organizing and managing information resources, updating digital platforms, and coordinating meta projects such as the CUNY Anti-Hate Initiative ("Shedding Light") and the Blended Shadow Puppet Project (BSPP). The intern will enhance the center's operational efficiency by ensuring resources are accessible, up-to-date, and effectively managed across various platforms, including Google Sites, Discord, GitHub, and potentially social media platforms.
+- **Project**: [Live Sound Engineering for Blended Shadow Puppet Theatre (BSPT)](https://docs.google.com/document/d/1pVfn8B1TqrQNmJ44UVW2rspqUWiWgy9w2FmLZ3M84Ps/edit?usp=sharing)  
+- **Focus Areas**:  
+  - Live Sound Engineering  
+  - Voiceover Recording  
+  - Special Effects  
+  - Audio System Development  
+  - Documentation  
+
+### John Powell  
+- **Study Type**: Internship  
+- **Proposal**: [Narrative Design Intern for Blended Shadow Puppet Project](https://docs.google.com/document/d/1pVfn8B1TqrQNmJ44UVW2rspqUWiWgy9w2FmLZ3M84Ps/edit?usp=sharing)  
+- **Responsibilities**:  
+  - **Narrative Development**: Working with World Building Team, research and develop modern narratives inspired by traditional shadow puppetry for integration into digital and physical spaces.
+  - **World Building**: Build and expand immersive worlds inspired by cultural shadow puppetry, adapted for various media formats.
+  - **Character Development**: Create characters that blend traditional puppetry artistry with modern storytelling for both physical and digital use.
+  - **Game Mechanic Design**: Explore and develop interactive game mechanics that enhance storytelling within the Blended Shadow Puppet universe.
+  - **Cultural and Artistic Research**: Conduct cultural research on shadow puppetry traditions to inform narrative, character, and world-building elements.
+  - **General Project Support**: Provide overall project support, including collaboration, documentation, and iterative feedback across all development areas.
 
 ### Hugo Sanchez  
 - **Study Type**: Internship  
@@ -107,27 +131,6 @@ This Document is divided into two sections:  Overall deliverables by Category, a
     - Present proposed character with both cultural sourcing and modern interpretations
   - **Unity Integration:** Implement the developed assets and character into the Unity game environment, ensuring technical compatibility and aesthetic cohesion.
   - **Documentation** Document and archive all assets and research outcomes in appriorpriate databases.
-
-### John Powell  
-- **Study Type**: Internship  
-- **Proposal**: [Narrative Design Intern for Blended Shadow Puppet Project](https://docs.google.com/document/d/1pVfn8B1TqrQNmJ44UVW2rspqUWiWgy9w2FmLZ3M84Ps/edit?usp=sharing)  
-- **Responsibilities**:  
-  - **Narrative Development**: Working with World Building Team, research and develop modern narratives inspired by traditional shadow puppetry for integration into digital and physical spaces.
-  - **World Building**: Build and expand immersive worlds inspired by cultural shadow puppetry, adapted for various media formats.
-  - **Character Development**: Create characters that blend traditional puppetry artistry with modern storytelling for both physical and digital use.
-  - **Game Mechanic Design**: Explore and develop interactive game mechanics that enhance storytelling within the Blended Shadow Puppet universe.
-  - **Cultural and Artistic Research**: Conduct cultural research on shadow puppetry traditions to inform narrative, character, and world-building elements.
-  - **General Project Support**: Provide overall project support, including collaboration, documentation, and iterative feedback across all development areas.
-
-### Anthony Navarro  
-- **Study Type**: Internship  
-- **Project**: [Live Sound Engineering for Blended Shadow Puppet Theatre (BSPT)](https://docs.google.com/document/d/1pVfn8B1TqrQNmJ44UVW2rspqUWiWgy9w2FmLZ3M84Ps/edit?usp=sharing)  
-- **Focus Areas**:  
-  - Live Sound Engineering  
-  - Voiceover Recording  
-  - Special Effects  
-  - Audio System Development  
-  - Documentation  
 
 ### ZiXuan Wu  
 - **Study Type**: Emerging Scholar  
