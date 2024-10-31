@@ -55,7 +55,7 @@ To contribute or explore the project:
 - Media
 - Cultural Research
 
-Explore the **World Canon** on [WorldAnvil](https://www.worldanvil.com/) to understand the fictional universe and learn how to contribute.
+Explore the **World Canon** on [WorldAnvil]([https://www.worldanvil.com/](https://www.worldanvil.com/w/testlantia-drdbsmith)) to understand the fictional universe and learn how to contribute.
 
 ## Contributing
 
