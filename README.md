@@ -9,6 +9,35 @@ The **Blended Shadow Puppet (BSP) Project** is an expansive cross-disciplinary m
 
 The BSP Project invites collaboration across all possible art forms, including but not limited to performing arts, computer games, visual storytelling, and more. Each contribution begins with the investigation of a culture or tradition, and through thoughtful and respectful adaptation, becomes a part of our fictional world. The project also focuses on the following core areas:
 
+# BSP Project Overview
+
+The BSP Project invites collaboration across diverse disciplines and art forms, including performing arts, computer games, visual storytelling, engineering, and computational design. Each contribution begins with an investigation of culture or tradition, which is then thoughtfully adapted to become part of our fictional world. The project focuses on the following core areas:
+
+- **Cultural and Historical Research**  
+  Investigating traditional shadow puppetry forms, their historical and cultural contexts, and transforming them into original narratives that honor these traditions.
+- **World-Building**  
+  Expanding the BSP universe by developing its history, geography, cultures, economies, and societies, ensuring that all contributions are integrated into a cohesive and respectful world canon.
+- **Multi-Modality Creation**  
+  Exploring diverse modalities, including performance, gaming, visual media, engineering prototypes, and computational simulations, to extend the narrative reach of the BSP world.
+- **AI Collaboration**  
+  Engaging AI as a creative collaborator to co-create in various media forms, blending physical, virtual, and conceptual spaces for immersive storytelling.
+- **Engineering and Computational Design**  
+  Developing physical and digital prototypes, interfaces, and immersive systems that integrate technology within the BSP narrative framework, enhancing interaction and experience.
+- **Outreach and Integration**  
+  Building partnerships, organizing events, and creating engagement materials that connect with external audiences and facilitate interdisciplinary contributions.
+- **Educational Resources**  
+  Creating learning materials, workshops, and curriculum modules that blend historical and creative practices, introducing shadow puppetry and cultural studies to new learners.
+- **Environmental and Sustainability Research**  
+  Exploring sustainable materials and practices for puppetry, set design, and digital development to align with ecological and environmental values.
+- **Psychological and Social Impact Studies**  
+  Investigating the effects of storytelling, performance, and immersive environments on audience perception, empathy, and cultural understanding.
+- **Documentation and Archiving**  
+  Developing a structured archive to preserve the project’s creative and research outputs, making them accessible for future study, expansion, and reference.
+
+- **Balanced Blended Space and Blended Reality Performance Systems**  
+  Testing the Balanced Blended Space (BBS) theoretical model through the development of Blended Reality Performance Systems. This includes investigating **combinative reality**—integrating physical and digital performance spaces to achieve a seamless, co-creative environment for human and AI collaboration.
+
+This expanded approach supports a multifaceted BSP Project, fostering creativity, cultural understanding, and interdisciplinary collaboration across arts, sciences, and community engagement.
 - **Cultural and Historical Research**: Investigating traditional shadow puppetry forms, their historical and cultural contexts, and transforming them into new, original narratives.
 - **World-Building**: Expanding the BSP universe by developing its history, cultures, economies, and more, ensuring that all contributions are integrated into a cohesive and respectful world canon.
 - **Multi-Modality Creation**: Exploring different modalities—performance, gaming, visual media, and more—to extend the narrative and reach of the BSP world.
