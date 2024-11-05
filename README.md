@@ -7,7 +7,7 @@
 
 ## BSP Project Activities Overview
 
-The BSP Project invites collaboration across diverse disciplines and art forms, including performing arts, computer games, visual storytelling, engineering, and computational design. Each contribution begins with an investigation of culture or tradition, which is then thoughtfully adapted to become part of our fictional world. The project focuses on the following core areas:
+The BSP Project invites collaboration across diverse disciplines and art forms, including performing arts, computer games, visual storytelling, engineering, and computational design, and existing within physical, virtual, and conceptual spaces. Each contribution begins with an investigation of culture or tradition, which is then thoughtfully adapted to become part of our fictional world. The project focuses on the following core areas:
 
 - **Cultural and Historical Research**  
   Investigating traditional shadow puppetry forms, their historical and cultural contexts, and transforming them into original narratives that honor these traditions.
