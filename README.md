@@ -5,10 +5,6 @@ The **Blended Shadow Puppet (BSP) Project** is an expansive cross-disciplinary m
 [Fall 2024 Student Participants](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/Team-members-2024-Fall.md)  
 [Fall 2024 Projects](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/Project-Activity-2024-Fall.md)  
 
-## Overview
-
-The BSP Project invites collaboration across all possible art forms, including but not limited to performing arts, computer games, visual storytelling, and more. Each contribution begins with the investigation of a culture or tradition, and through thoughtful and respectful adaptation, becomes a part of our fictional world. The project also focuses on the following core areas:
-
 # BSP Project Overview
 
 The BSP Project invites collaboration across diverse disciplines and art forms, including performing arts, computer games, visual storytelling, engineering, and computational design. Each contribution begins with an investigation of culture or tradition, which is then thoughtfully adapted to become part of our fictional world. The project focuses on the following core areas:
