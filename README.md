@@ -7,20 +7,20 @@
 
 ## BSP Project Activities Overview
 
-The BSP Project invites collaboration across diverse disciplines and art forms, including performing arts, computer games, visual storytelling, engineering, and computational design, and existing within physical, virtual, and conceptual spaces. Each contribution begins with an investigation of culture or tradition, which is then thoughtfully adapted to become part of our fictional world. The project focuses on the following core areas:
+The BSP Project invites collaboration across diverse disciplines and art forms, including performing arts, computer games, visual storytelling, engineering, and computational design. The meta-project focuses on the following core areas:
 
 - **Cultural and Historical Research**  
   Investigating traditional shadow puppetry forms, their historical and cultural contexts, and transforming them into original narratives that honor these traditions.
 - **World-Building**  
-  Expanding the BSP universe by developing its history, geography, cultures, economies, and societies, ensuring that all contributions are integrated into a cohesive and respectful world canon.
+  Expanding the BSP universe by developing its history, geography, cultures, economies, and societies, ensuring that all contributions are integrated into a cohesive world canon that can be used as reference and continuity material across all contributions.
 - **Multi-Modality Creation**  
-  Exploring diverse modalities, including performance, gaming, visual media, engineering prototypes, and computational simulations, to extend the narrative reach of the BSP world.
+  Exploring diverse communication modalities, including performance, gaming, text, visual media, music, engineering prototypes, and computational simulations, to contribute to the narrative reach of the BSP world.
 - **AI Collaboration**  
-  Engaging AI as a creative collaborator to co-create in various media forms, blending physical, virtual, and conceptual spaces for immersive storytelling.
+  Engaging AI as a collaborative partner and deploying it in both technically and to co-create in various media forms, blending physical, virtual, and conceptual spaces for immersive storytelling.
 - **Engineering and Computational Design**  
   Developing physical and digital prototypes, interfaces, and immersive systems that integrate technology within the BSP narrative framework, enhancing interaction and experience.
 - **Outreach and Integration**  
-  Building partnerships, organizing events, and creating engagement materials that connect with external audiences and facilitate interdisciplinary contributions.
+  Making connections, building partnerships, organizing events, and creating engagement materials that connect with external audiences and facilitate interdisciplinary contributions.
 - **Educational Resources**  
   Creating learning materials, workshops, and curriculum modules that blend historical and creative practices, introducing shadow puppetry and cultural studies to new learners.
 - **Environmental and Sustainability Research**  
