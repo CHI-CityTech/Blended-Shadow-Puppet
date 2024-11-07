@@ -2,7 +2,7 @@
 **FALL 2024**  
 This semester, CHI student participants are focused on integrating traditional storytelling with modern technologies across several key areas. System integration efforts include AI-driven media control, live sound engineering, and the development of a world-building platform. AI collaboration will enhance game design, asset creation, and world-building for the Blended Shadow Puppet Project. Students will also advance game development through interactive Twine-based storytelling and Unity-based virtual environments. Puppet design will span both physical and digital realms, while project management ensures effective coordination of resources and documentation. Together, these projects blend art and technology to create immersive, interactive experiences.
 
-This Document is divided into two sections:  Overall deliverables by Category, and Responsibilities by Team member.
+For a document that organizes by project, please see [here](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/Project-Activity-2024-Fall.md)
 
 ## Projects by Team Member  
 
