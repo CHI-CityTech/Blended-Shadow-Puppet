@@ -48,6 +48,11 @@ This Document is divided into two sections:  Overall deliverables by Category, a
   - Test the system in a live or simulated performance setting.
   - Analyze the results to assess the effectiveness of AI-driven media control and the impact of human feedback.
 
+### Cordell Lane
+- **Study Type**: Internship
+- **Proposal** [Shadow Puppet Strategy Game](https://docs.google.com/document/d/1KMcemlM-vzy8oATSCqrzTkN6EAig6rs2sS6dIXw52iw/edit?usp=sharing)
+- **Description**: Developing "Shadow Sports," a strategy-based, chess-inspired game that combines traditional shadow puppet arts with competitive gameplay. Cordell is responsible for integrating diverse shadow puppet traditions into the game's mechanics and visual style, highlighting cultural heritage through unique character abilities and light-shadow interactions.  
+  
 ### Anthony Navarro  
 - **Study Type**: Internship  
 - **Project**: [Live Sound Engineering for Blended Shadow Puppet Theatre (BSPT)](https://docs.google.com/document/d/1pVfn8B1TqrQNmJ44UVW2rspqUWiWgy9w2FmLZ3M84Ps/edit?usp=sharing)  
