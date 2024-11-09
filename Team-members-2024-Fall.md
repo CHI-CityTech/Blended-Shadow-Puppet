@@ -40,7 +40,8 @@ For a document that organizes by project, please see [here](https://github.com/C
 - To support the Center of Holistic Integration by organizing and managing information resources, updating digital platforms, and coordinating meta projects such as the CUNY Anti-Hate Initiative ("Shedding Light") and the Blended Shadow Puppet Project (BSPP). The intern will enhance the center's operational efficiency by ensuring resources are accessible, up-to-date, and effectively managed across various platforms, including Google Sites, Discord, GitHub, and potentially social media platforms.
 
 ### Edward Gonzalez  
-- **Study Type**: Independent Study  
+- **Study Type**: Independent Study
+- **GitHub repository** [https://github.com/egonzalez99/AI-with-QLab-using-an-OSC](https://github.com/egonzalez99/AI-with-QLab-using-an-OSC) 
 - **Proposal**: [Integrating Generative AI with QLab](https://www.dropbox.com/scl/fi/nmf8zk917xw15bzds1um0/Independent-Study-Edward-Gonzalez-Fall-2024-Research-Proposal_-Integrating-Generative-AI-with-QLab-Using-Open-Sound-Control-OSC.pdf)
   - Integrate an existing Generative AI (GAI) API with Open Sound Control (OSC) commands to manage media in QLab.
   - Load QLab with a range of media types (audio, video, lighting) for dynamic control by the AI.
