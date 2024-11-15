@@ -4,7 +4,7 @@ Here is the link to the Shadow Sports Game Mechanics Google Doc:
 [Shadow Sports Game Mechanics Document](https://docs.google.com/document/d/18B4DbTucgdNWoEpzBDDT_cnuqMCEfT2t4FnyQWEbzEI/edit?usp=sharing)
 
 ---
-
+  
 ## Current Proposed Mechanics 
 
 ### Basic Mechanics
