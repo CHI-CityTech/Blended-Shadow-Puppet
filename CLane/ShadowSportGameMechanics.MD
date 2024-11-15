@@ -9,7 +9,7 @@ Here is the link to the Shadow Sports Game Mechanics Google Doc:
 
 ### **Basic Mechanics**
 
-1. **Dynamic Board and Tile Effects:**
+1. **Dynamic Board and Tile Effe   cts:**
    - The board layout is randomized for each game, with tiles providing effects based on lighting conditions.
 
 2. **Tile Colors and Effects:**
