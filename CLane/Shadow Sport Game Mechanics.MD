@@ -5,7 +5,7 @@ Here is the link to the Shadow Sports Game Mechanics Google Doc:
 
 ---
 
-## A Peek at the Current Mechanics (Subject to Updates)
+## A Peek at the Current Proposed Mechanics (Subject to Updates)
 
 ### **Basic Mechanics**
 
@@ -13,7 +13,7 @@ Here is the link to the Shadow Sports Game Mechanics Google Doc:
    - The board layout is randomized for each game, with tiles providing effects based on lighting conditions.
 
 2. **Tile Colors and Effects:**
-   - Each tile color grants specific buffs or debuffs:
+   - Each tile color grants specific buffs or debuffs. For example:
      - **Red Tiles:** Boost attack.
      - **Blue Tiles:** Boost defense.
 
