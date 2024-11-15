@@ -12,7 +12,7 @@ Here is the link to the Shadow Sports Game Mechanics Google Doc:
    - The board layout is randomized for each game, with tiles providing effects based on lighting conditions.
 
 2. Tile Colors and Effects:
-   - Red Tiles: Boost attack.
+   - Red Tiles: Boost attack. 
    - Blue Tiles: Boost defense.
 
 3. Light and Shadow Effects:
