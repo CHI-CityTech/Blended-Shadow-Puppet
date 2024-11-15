@@ -1,4 +1,4 @@
-Here the link to the Shadow Sport Game Mechanics: 
+Here the link to the Shadow Sport Game Mechanics Google Doc: 
 [link](https://docs.google.com/document/d/18B4DbTucgdNWoEpzBDDT_cnuqMCEfT2t4FnyQWEbzEI/edit?usp=sharing)
 
 A little peeek which can be updated
