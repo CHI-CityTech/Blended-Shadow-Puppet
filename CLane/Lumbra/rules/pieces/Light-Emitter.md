@@ -87,4 +87,4 @@ The Light Emitter is a cornerstone of the Light side’s strategy in Lumbra. Its
 
 ---
 
-**Return to [Game Pieces Index](#)**
+**Return to [rules](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/tree/main/CLane/Lumbra/rules)**
