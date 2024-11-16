@@ -1,4 +1,7 @@
 # Light Emitter
+<img src="https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/assets/images/DALL·E%202024-11-16%2015.35.09%20-%20Emitter.png" width="400" />  
+
+
 
 ## **Overview**
 The Light Emitter is a key piece for the Light side in the game of Lumbra. Designed to project beams of light in a single direction, it symbolizes clarity and enlightenment, countering shadows and reclaiming contested tiles on the board. Crafted with historical accuracy, the Light Emitter aligns with the game's ancient origins.
