@@ -1,4 +1,5 @@
 # Creeper
+<img src="https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/assets/images/DALL·E%202024-11-16%2016.13.40%20-%20Creeper%20Lumbra.png" width="400" />  
 
 ## **Overview**
 The Creeper is a stealthy infiltrator for the Shadow side in the game of Lumbra. Its ability to infiltrate illuminated zones and disable Light side defenses makes it a dangerous and versatile piece. Creepers thrive on strategy and subterfuge, disrupting the Light side’s control.
