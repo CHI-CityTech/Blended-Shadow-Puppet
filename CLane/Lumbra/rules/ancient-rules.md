@@ -74,38 +74,38 @@ Each player performs one action per turn:
 ## **Specific Pieces and Their Abilities**
 
 ### **Light Side Pieces**
-1. **Emitter**
+1. [**Emitter**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/rules/pieces/Light-Emitter.md)
    - **Ability**: Projects a straight beam of light.
    - **Weakness**: Can only emit light in one direction; easily blocked.
 
-2. **Mirror**
+2. [**Mirror**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/rules/pieces/Light-Mirror.md)
    - **Ability**: Redirects light to illuminate hard-to-reach tiles.
    - **Weakness**: Stationary and vulnerable if surrounded.
 
-3. **Prism**
+3. [**Prism**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/rules/pieces/Light-Prism.md)
    - **Ability**: Splits a light beam into two or three paths.
    - **Weakness**: Does not emit light on its own; relies on other pieces.
 
-4. **Guardian**
+4. [**Guardian**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/rules/pieces/Light-Prism.md)
    - **Ability**: Moves freely while illuminating adjacent tiles.
    - **Weakness**: Limited illumination range.
 
 ---
 
 ### **Shadow Side Pieces**
-1. **Blocker**
+1. [**Blocker**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/rules/pieces/Shadow-Blocker.md)
    - **Ability**: Casts a wide shadow behind it based on orientation.
    - **Weakness**: Vulnerable if rotated incorrectly.
 
-2. **Veil**
+2. [**Veil**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/rules/pieces/Shadow-Veil.md)
    - **Ability**: Creates a zone of total shadow, nullifying light in adjacent tiles.
    - **Weakness**: Cannot move once placed.
 
-3. **Shadow Candle**
+3. [**Shadow-Candle**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/rules/pieces/Shadow-Candle.md)
    - **Ability**: Emits dim light that strengthens nearby shadows.
    - **Weakness**: Stationary and limited in range.
 
-4. **Creeper**
+4. [**Creeper**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/rules/pieces/Shadow-Creeper.md)
    - **Ability**: Extends shadows as it moves, enveloping tiles in darkness.
    - **Weakness**: Cannot block beams directly.
 
