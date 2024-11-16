@@ -88,4 +88,4 @@ The Shadow Veil emphasizes the subtle yet powerful interplay between light and s
 
 ---
 
-**Return to [Game Pieces Index](#)**
+**Return to [rules](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/tree/main/CLane/Lumbra/rules)**
