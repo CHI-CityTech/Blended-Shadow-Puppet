@@ -1,5 +1,8 @@
 # Guardian
 
+
+
+DALL·E%202024-11-16%2013.56.24%20-%20Guardian%20game%20piece%20for%20Lumbra.png
 ## **Overview**
 The Guardian is a powerful defensive piece for the Light side in the game of Lumbra. It protects illuminated tiles and nearby Light pieces from shadow encroachment. Guardians are immobile once placed, acting as sentinels to safeguard critical areas of the board.
 
