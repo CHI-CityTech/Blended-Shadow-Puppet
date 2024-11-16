@@ -1,4 +1,5 @@
 # Shadow Candle
+<img src="https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/assets/images/DALL·E%202024-11-16%2015.59.31-Shadow-Candle%20game%20Lumbraa.png" width="400" />  
 
 ## **Overview**
 The Shadow Candle is a strategic piece for the Shadow side in the game of Lumbra. It enhances and extends shadows created by other pieces, providing tactical advantages in controlling light and shadow zones. Its dim light interacts with shadows to disrupt light-based strategies and secure dominance.
