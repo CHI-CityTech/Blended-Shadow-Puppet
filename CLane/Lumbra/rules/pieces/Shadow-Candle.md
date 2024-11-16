@@ -90,4 +90,4 @@ The Shadow Candle embodies the delicate interplay between light and shadow in Lu
 
 ---
 
-**Return to [Game Pieces Index](#)**
+**Return to [rules](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/tree/main/CLane/Lumbra/rules)**
