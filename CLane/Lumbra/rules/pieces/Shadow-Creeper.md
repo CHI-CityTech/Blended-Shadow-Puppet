@@ -70,4 +70,4 @@ The Creeper represents stealth and disruption, embodying the Shadow side’s phi
 
 ---
 
-**Return to [Game Pieces Index](#)**
+**Return to [rules](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/tree/main/CLane/Lumbra/rules)**
