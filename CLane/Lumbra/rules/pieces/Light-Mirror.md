@@ -1,4 +1,5 @@
 # Mirror
+<img src="https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/assets/images/DALL%C2%B7E%202024-11-16%2013.20.08%20-%20Mirror%20game%20piece%20for%20Lumbra.png" width="400" />  
 
 ## **Overview**
 The Mirror is a strategic support piece for the Light side in the game of Lumbra. By redirecting light beams based on their angle of incidence, the Mirror allows players to manipulate light paths and reclaim contested tiles. Its design emphasizes functionality, with a short base and a prominent reflective surface.
