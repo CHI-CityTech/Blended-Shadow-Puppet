@@ -52,4 +52,4 @@ Stationary Light Emitters are integral to Lumbra's balance of light and shadow. 
 
 ---
 
-**Return to [Game Mechanics Index](#)**
+**Return to [rules](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/tree/main/CLane/Lumbra/rules)**
