@@ -1,5 +1,7 @@
 # Prism
 
+<img src="https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/assets/images/DALL·E%202024-11-16%2013.41.17%20-%20Prism%20game%20piece%20for%20Lumbra.png" width="400" />
+
 ## **Overview**
 The Prism is a versatile support piece for the Light side in the game of Lumbra. Its unique ability to split light beams into multiple directions makes it an essential tool for illuminating difficult-to-reach tiles and outmaneuvering Shadow pieces. Proper placement of the Prism can dramatically enhance the Light side’s control over the board.
 
