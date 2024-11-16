@@ -93,4 +93,4 @@ The Mirror is a symbol of adaptability and ingenuity in Lumbra. Its ability to m
 
 ---
 
-**Return to [Game Pieces Index](#)**
+**Return to [rules](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/tree/main/CLane/Lumbra/rules)**
