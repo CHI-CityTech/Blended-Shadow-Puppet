@@ -1,4 +1,5 @@
 # Lumbra: The Ancient Game of Light and Shadow
+![DALL·E 2024-11-16 16 25 48 - Lumbra the Game woodcut](https://github.com/user-attachments/assets/6df3691c-8009-4b87-89e4-5fe59eb40027)
 
 Lumbra is an ancient strategic game rooted in the metaphors of light and shadow. Played on a square grid board, the game combines elements of illumination, concealment, and reflection to outmaneuver the opponent. The goal is to dominate the board by harnessing light or shadow.
 
