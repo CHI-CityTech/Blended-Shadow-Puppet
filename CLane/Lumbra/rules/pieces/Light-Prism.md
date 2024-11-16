@@ -84,4 +84,4 @@ The Prism embodies the interplay of clarity, versatility, and enlightenment in L
 
 ---
 
-**Return to [Game Pieces Index](#)**
+**Return to [rules](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/tree/main/CLane/Lumbra/rules)**
