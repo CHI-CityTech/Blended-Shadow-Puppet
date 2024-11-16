@@ -1,5 +1,7 @@
 # Shadow Blocker
 
+<img src="https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/assets/images/DALL%C2%B7E%202024-11-16%2013.29.51%20-%20Shadow%20Blocker%20game%20piece%20for%20Lumbra.png" width="400" />  
+
 ## **Overview**
 The Shadow Blocker is a vital piece for the Shadow side in the game of Lumbra. It is designed to cast large, obstructive shadows across the board, blocking light beams and reclaiming illuminated tiles. Its placement, orientation, and movement are critical to disrupting the Light side’s strategies.
 
