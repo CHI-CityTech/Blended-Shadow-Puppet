@@ -1,4 +1,6 @@
 # Shadow Veil
+<img src="https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/assets/images/DALL·E%202024-11-16%2015.03.40%20-%20Veil%20game%20piece%20Lumbra.png" width="400" />  
+
 
 ## **Overview**
 The Shadow Veil is a unique support piece for the Shadow side in the game of Lumbra. It creates an aura of enhanced darkness, amplifying the effects of nearby shadows and shielding Shadow pieces from light. Its ability to manipulate the intensity and spread of shadow zones makes it a critical tool for controlling the board.
