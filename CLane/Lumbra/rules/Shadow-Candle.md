@@ -1,69 +1,92 @@
 # Shadow Candle
 
 ## **Overview**
-The Shadow Candle is a key piece for the Shadow side in the game of Lumbra. It serves a dual purpose: enhancing shadows cast by other pieces and enabling strategic targeting of Light pieces through its dim light emission.
+The Shadow Candle is a strategic piece for the Shadow side in the game of Lumbra. It enhances and extends shadows created by other pieces, providing tactical advantages in controlling light and shadow zones. Its dim light interacts with shadows to disrupt light-based strategies and secure dominance.
 
 ---
 
 ## **Abilities**
 1. **Shadow Enhancement**:
-   - The Shadow Candle extends the reach of shadows created by adjacent Blockers or other shadow-generating pieces.
-   - The extended shadow can envelop additional tiles, increasing the Shadow player’s control over the board.
+   - Extends and strengthens shadows cast by adjacent Blockers or other shadow-generating pieces.
+   - Converts illuminated tiles within its range back to shadow zones.
 
-2. **Targeting Light Pieces**:
-   - A Light piece that becomes fully enveloped in the extended shadow and has no direct illumination is removed at the end of the turn.
-   - The Shadow Candle must work in conjunction with another piece to create this effect.
+2. **Shadow Casting**:
+   - The Shadow Candle itself casts a small shadow in the direction opposite its dim light emission, creating opportunities to envelop Light pieces or tiles.
 
-3. **Dim Light Emission**:
-   - Emits a faint light in one direction, strengthening shadows cast in the opposite direction.
+3. **Strategic Illumination**:
+   - Its dim light interacts with other light sources, creating unpredictable zones of shadow and light overlap.
 
 ---
 
-## **Requirements and Limitations**
-1. **Pre-Existing Shadow**:
-   - The Shadow Candle cannot create shadows on its own.
-   - It requires an adjacent shadow-generating piece, such as a Blocker, to enhance or extend shadows.
+## **Movement Rules**
+1. **Limited Mobility**:
+   - The Shadow Candle can move up to **one tile per turn** in any direction (orthogonal or diagonal).
+   - Movement is restricted to tiles within existing shadow zones.
 
-2. **Directional Use**:
-   - The Shadow Candle’s dim light can only enhance shadows in the opposite direction of its emission.
-   - It cannot affect shadows in directions already illuminated by other light sources.
+2. **Fixed Position Option**:
+   - Once placed, the Shadow Candle can remain stationary, focusing on enhancing nearby shadows.
 
-3. **Light Interaction**:
-   - If exposed to direct light in the same direction as its dim light emission, the Shadow Candle loses its enhancement ability for that turn.
+3. **Directional Light**:
+   - The Shadow Candle can rotate 90 degrees per turn to adjust the direction of its dim light emission.
 
-4. **Range**:
-   - The Shadow Candle affects only tiles within one square of its location.
+---
+
+## **Capture Mechanic**
+- A Shadow Candle is removed from the board if it is directly illuminated by a strong light source or if it moves into a fully illuminated zone.
+
+---
+
+## **Physical Construction**
+1. **Base**:
+   - **Material**: Traditionally crafted from stone, clay, or metal, reflecting ancient craftsmanship.
+   - **Dimensions**: Approximately **25mm diameter** and **10mm height**, resembling a low-profile, sturdy base for stability.
+
+2. **Candle Body**:
+   - **Material**: Carved wax or molded clay, consistent with traditional candle-making techniques.
+   - **Height**: Approximately **20mm to 30mm**, low enough to interact naturally with other pieces on the board.
+   - **Shape**: Cylindrical or slightly tapered for a classic candle aesthetic.
+
+3. **Flame**:
+   - **Realistic Element**: A functional flame (or flame representation in digital or modern recreations) produced by natural wicks or other traditional methods.
+   - **Height**: Approximately **5mm**, proportionate to the piece’s overall size.
+
+4. **Aesthetic Details**:
+   - **Symbolic Motifs**:
+     - The base and candle body are adorned with carvings depicting traditional shadow puppet designs and symbols of flickering light.
+   - **Color Scheme**:
+     - Dark, muted tones such as charcoal gray or black, emphasizing its connection to shadow.
 
 ---
 
 ## **Strategic Uses**
-1. **Offensive Strategy**:
-   - Position the Shadow Candle near key Blockers to extend their shadows into contested zones.
-   - Use it to envelop Light pieces that are protected by distance or terrain.
+1. **Shadow Expansion**:
+   - Use the Shadow Candle to extend and deepen the shadows of nearby Blockers, creating larger zones of control.
 
-2. **Defensive Strategy**:
-   - Place the Shadow Candle to fortify critical areas, creating impenetrable shadow zones.
-   - Protect the Shadow Candle from direct illumination to maintain its effectiveness.
+2. **Tile Domination**:
+   - Place the Shadow Candle strategically to reclaim illuminated tiles and deny the Light side access to critical areas.
 
-3. **Coordinated Play**:
-   - Combine the Shadow Candle with multiple Blockers to create overlapping shadows, maximizing control over specific areas.
+3. **Light Interaction**:
+   - Position the Shadow Candle near overlapping light sources to create complex zones of light-shadow interplay, forcing the Light side to adjust their strategies.
+
+4. **Defensive Use**:
+   - Protect key Shadow pieces by enveloping them in enhanced shadow zones, preventing their removal.
 
 ---
 
 ## **Weaknesses**
-1. **Dependence on Other Pieces**:
-   - The Shadow Candle is ineffective on its own and requires collaboration with Blockers or other shadow-generating pieces.
+1. **Dependence on Shadow Zones**:
+   - The Shadow Candle must remain in or adjacent to shadow zones to function effectively.
 
 2. **Vulnerability to Light**:
-   - Direct illumination from Light side pieces can nullify its abilities, making it a priority target for the Light player.
+   - Direct exposure to strong light sources extinguishes the Shadow Candle, making it a priority target for the Light side.
 
 3. **Limited Range**:
-   - Its enhancement effect is confined to tiles within one square, requiring careful placement for maximum impact.
+   - The Shadow Candle affects only tiles within one square of its location, requiring precise placement to maximize its impact.
 
 ---
 
 ## **Design Notes**
-The Shadow Candle is inspired by the flickering uncertainty of light and shadow. Its role emphasizes the cooperative nature of Shadow side pieces, adding depth and complexity to gameplay.
+The Shadow Candle embodies the delicate interplay between light and shadow in Lumbra. Its dim, flickering light serves as both a disruptor and enhancer, offering a unique tactical layer. Its design reflects traditional craftsmanship, ensuring its aesthetic aligns with the ancient roots of the game.
 
 ---
 
