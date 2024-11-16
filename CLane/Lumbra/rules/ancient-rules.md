@@ -109,6 +109,49 @@ Each player performs one action per turn:
    - **Ability**: Extends shadows as it moves, enveloping tiles in darkness.
    - **Weakness**: Cannot block beams directly.
 
+
+# Lumbra Game Pieces Summary Table
+
+## **Light Team**
+
+| **Piece**           | **Movement**             | **Abilities**                                                                                                   | **Capture Conditions**                                |
+|----------------------|--------------------------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| **Emitter**          | Rotates freely; immobile | Emits a focused light beam; interacts with Prisms and Mirrors to extend or redirect light beams                | Removed if no longer illuminated by any light source |
+| **Prism**            | 1 tile orthogonally/diagonally | Splits light into multiple beams; redirects light at various angles                                            | Removed if surrounded by shadow                      |
+| **Mirror**           | 1 tile orthogonally/diagonally | Redirects light based on the angle of incidence; supports one-sided and two-sided variants                     | Removed if surrounded by shadow                      |
+| **Guardian**         | Immobile                 | Projects a protective light aura; shields nearby tiles and Light pieces from Shadow influence                  | Removed if surrounded by shadow                      |
+
+---
+
+## **Shadow Team**
+
+| **Piece**           | **Movement**             | **Abilities**                                                                                                   | **Capture Conditions**                                |
+|----------------------|--------------------------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| **Blocker**          | 2 tiles orthogonally     | Casts shadows to block light beams; amplifies shadows when near Shadow Candles                                 | Removed if not in a shadow zone                      |
+| **Shadow Candle**    | 1 tile orthogonally/diagonally | Extends and amplifies shadows; casts dim light to enhance nearby Shadow pieces                                 | Removed if fully illuminated                         |
+| **Creeper**          | 2 tiles orthogonally/diagonally | Infiltrates illuminated zones; disables Guardians; leaves temporary shadow trails                              | Removed if exposed to 2+ light beams simultaneously  |
+| **Veil**             | 1 tile orthogonally/diagonally | Generates an aura of enhanced darkness; amplifies nearby shadows; dampens light intensity                      | Removed if fully illuminated                         |
+
+---
+
+## **Neutral Pieces**
+
+| **Piece**                      | **Movement** | **Abilities**                                                                                                   | **Capture Conditions**                                |
+|---------------------------------|--------------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| **Stationary Light Emitters**   | Immobile     | Provides consistent illumination across specific board areas; interacts with Prisms and Mirrors                | Not capturable                                       |
+| **Stationary Shadow Absorbers** | Immobile     | Potential ability to nullify shadows within a specific radius; details pending game mechanic discussions        | Not capturable                                       |
+
+---
+
+**Notes**:
+- Pieces are grouped into **Light**, **Shadow**, and **Neutral** categories for clarity.
+- Neutral pieces are features of the board and not controlled by either side but interact with gameplay mechanics.
+- Capture Conditions outline what leads to the removal of Light and Shadow pieces; Neutral pieces are fixed features and cannot be removed.
+
+**Return to [Game Pieces Index](#)**
+
+
+
 ---
 
 ## **Victory Conditions**
