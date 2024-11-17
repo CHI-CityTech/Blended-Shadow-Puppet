@@ -77,14 +77,80 @@ Lumbra’s enduring appeal lies in its ability to capture the essence of the Sha
 
 ---
 
-## The Origin Story of Lumbra: The Trial of Light and Shadow
+## The Origin Story of **Lumbra**: The Trial of Light and Shadow
+
 In the ancient Shadow Puppet World, when the lands were newly shaped and the balance between Light and Shadow was delicate, the gods convened to decide which force was supreme. This was not a matter of war, but a philosophical question: Which was more essential—the light that reveals, or the shadow that protects?
 
-[Read more...](#the-trial)
+To settle the debate, the gods created a contest. They descended to the mortal plane and summoned the greatest artisans, philosophers, and engineers. Among them was a visionary named **Kari Dalang**, a master craftsman and philosopher who believed that Light and Shadow were not opposites, but complements—each incomplete without the other.
 
 ---
 
-## The Apocryphal Origin of Lumbra: The Duel of Shadows
-Long ago, in the *Era of the Eternal Balance*, the world was divided not by nations or tribes but by the great struggle between Light and Shadow. This was not a conflict of violence, but a profound quest for harmony, with each force seeking to demonstrate its dominance without extinguishing the other.
+### The Challenge
 
-[Read more...](#the-duel)
+The gods gave Kari Dalang a single flame and a single piece of obsidian.  
+“From these,” they commanded, “create a way for us to compete and demonstrate our truth.”
+
+Kari Dalang worked tirelessly for seven days and nights. Using the flame, he crafted candles and lamps that could illuminate vast spaces. From the obsidian, he shaped mirrors, blockers, and veils to cast and manipulate shadows. These creations were arranged on a board divided into squares, representing the mortal realm, where Light and Shadow would compete for dominion.
+
+---
+
+### The Trial
+
+The gods of Light and Shadow each chose champions to represent them. The champions used the pieces on the board to shape the balance of illumination and darkness. The Light champion relied on emitters to spread beams of radiance across the board, while the Shadow champion used blockers and veils to carve out sanctuaries of darkness. The Trial lasted for days, with beams of light bending, reflecting, and being absorbed, creating intricate patterns of illuminated and shadowed tiles.
+
+At the Trial’s climax, the Shadow champion placed a **Shadow Candle**, casting a dim but focused light that deepened the surrounding shadows. The Light champion countered by reflecting a beam from a **Mirror**, piercing the darkness and illuminating hidden tiles. The mortals and gods alike watched in awe as the board became a dynamic interplay of Light and Shadow.
+
+---
+
+### The Revelation
+
+In the end, no side achieved total dominance. Instead, the gods saw the beauty of the balance created by their forces. Light could not reveal its full brilliance without the depth provided by Shadow, and Shadow could not exist without the clarity brought by Light.
+
+Kari Dalang stepped forward and spoke:  
+“Light and Shadow are not enemies, but partners in shaping the world. Together, they create form, meaning, and truth.”
+
+The gods, humbled by the Trial, declared that mortals would play the game to honor this truth. Kari Dalang named the game **Lumina et Umbra**, meaning “Light and Shadow.” Over centuries, the name evolved into **Lumbra**, but the lessons of balance and harmony endured.
+
+---
+
+### The Legacy of the Trial
+
+The Trial of Light and Shadow became a cultural cornerstone in the Shadow Puppet World. The game spread across regions, with each culture adding its own pieces and rules, reflecting local traditions. Some legends claim that the gods still watch every game of Lumbra, eager to see how mortals honor the balance they once contested.
+
+To this day, Lumbra is played not just as a game, but as a ritual—a reminder of the Trial that shaped the understanding of Light and Shadow as eternal partners, whose dance gives meaning to the world.
+
+## The Apocryphal Origin of Lumbra: The Duel of Shadows
+
+Long ago, in the *Era of the Eternal Balance*, the world was divided not by nations or tribes but by the great struggle between Light and Shadow. This was not a conflict of violence, but a profound quest for harmony, with each force seeking to demonstrate its dominance without extinguishing the other. 
+
+The legend begins with two celestial beings: **Solis**, the Bringer of Light, and **Umbra**, the Keeper of Shadows. They were siblings, born from the same cosmic spark, yet eternally opposed in nature. As they grew, so too did their rivalry, each claiming their role as the more vital force in shaping the universe.
+
+One fateful evening, Solis and Umbra descended to the mortal plane to settle their eternal dispute. The mortals, fearing that their celestial quarrel would destroy the fragile balance of their world, begged the siblings to resolve their contest in a way that would preserve harmony. An ancient mystic, **Kari Dalang**, stepped forward and proposed a solution:
+
+"Create a game," Kari said, "where Light and Shadow may battle without chaos, where their strengths may be tested without devastation. Let the game reveal the truth of balance."
+
+The siblings agreed, and thus the first **Lumina et Umbra** board was born. The board was divided into a grid, symbolizing the mortal world. Solis shaped pieces that glowed with celestial fire, while Umbra crafted pieces of obsidian so pure they absorbed the light around them. Kari Dalang placed a single flame at the center, its flickering light casting intricate shadows across the board.
+
+---
+
+### The Duel
+
+The game began, and with each move, Solis and Umbra demonstrated their powers. Solis used light to illuminate vast swathes of the board, cornering Umbra’s pieces, while Umbra deftly maneuvered her pieces to cast intricate shadows, disrupting Solis’s plans. Each turn brought new surprises, as mirrors redirected light, veils softened its glow, and blockers carved out pockets of darkness.
+
+The duel lasted for seven days and nights. As the final moves approached, it seemed that Solis would overwhelm the board with light. But Umbra, in a masterstroke, placed her final piece—a **Shadow Candle**—perfectly in the path of a reflected beam. The candle’s dim light strengthened her shadows, tipping the balance. Neither side won outright, but both forces came to understand the value of the other.
+
+Solis, humbled, declared:  
+“Without shadow, light cannot reveal form or depth.”
+
+Umbra, moved, replied:  
+“Without light, shadow has no meaning or substance.”
+
+---
+
+### The Legacy
+
+The mortals, having witnessed the duel, vowed to preserve its lessons. Kari Dalang crafted the first boards and pieces, teaching the game as a way to honor the eternal dance of Light and Shadow. Over time, mortals simplified the name to **Lumbra**, and the game became a sacred tradition.
+
+The tale of Solis and Umbra is still told in hushed tones at the start of every Lumbra match. Players are reminded that their moves reflect not just strategy, but the deeper truth of balance: that neither light nor shadow can exist alone, and that their eternal interplay shapes the world.
+
+This mythical origin, though shrouded in mystery, remains at the heart of Lumbra’s enduring appeal, ensuring it is not just a game, but a ritual of profound spiritual significance.
