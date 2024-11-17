@@ -2,7 +2,9 @@
 
 Lumbra is one of the most ancient and revered games in the Shadow Puppet World, deeply rooted in the cultural and spiritual traditions of its people. Its creation and evolution reflect the unique interplay between mythology, philosophy, and the technical ingenuity of early societies, making it a timeless symbol of their cultural heritage.
 
+[Rules for Lumbra](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/CLane/Lumbra/rules/ancient-rules.md)
 ---
+
 
 ## Origins
 
