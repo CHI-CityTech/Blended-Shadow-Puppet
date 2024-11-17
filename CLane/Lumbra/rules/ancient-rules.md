@@ -15,8 +15,24 @@ Lumbra is an ancient strategic game rooted in the metaphors of light and shadow.
 
 ## **Game Setup**
 
-1. **Board**: A square grid, typically 8x8 or 10x10.
-2. **Pieces**:
+### Board
+- The game board begins with a predefined configuration of light and shadow.
+- It is a a square grid, typically 8x8 or 10x10. 
+- **Stationary Light Emitters**:
+  - Positioned at the four corners or edges of the board.
+  - Emit fixed beams of light in specific directions, creating illuminated tiles and casting shadows.
+  - These emitters are not movable and are considered part of the board itself.
+- **Initial Light and Shadow Zones**:
+  - Tiles affected by stationary emitters start illuminated.
+  - Tiles not hit by stationary emitters’ light beams start in shadow.
+  - the number of different lights that hit a square determine the intensity of it's lightness
+### **Pieces**
+  - Each piece has unique abilities and interactions with light and shadow.
+  - Each piece is designed to emit, block or modify the light sources, using flames, opaque, transluscent reflective and other types of mechanisms. The result is that differetn squares or piedces are illuminated or cast into shadow based on the moves made by the players.
+  - Pieces are placed in starting positions based on the chosen board setup or scenario.
+  - Often gameplay begins as each person places one of their pieces onto teh board, similar to the way that Go is played
+  - Each side has their own specific pieces with their own mechanics.
+
    - **Light Side**:
      - Emitters
      - Mirrors
@@ -27,10 +43,6 @@ Lumbra is an ancient strategic game rooted in the metaphors of light and shadow.
      - Veils
      - Shadow Candles
      - Creepers
-3. **Fixed Illuminators**:
-   - Four corner light sources project beams diagonally across the board.
-   - These beams are static unless modified by a player's piece.
-
 ---
 
 ## **Gameplay**
