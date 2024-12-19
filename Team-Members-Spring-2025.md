@@ -9,3 +9,4 @@ Sam Cheung  -  AI images and videosw and also Puppet fabrication.  New ones and 
 Cordell - Lane - Lumbra Chess like game development. Narrative. World Building.  Game Origins.
 Hugo Sanchez - Unity Asset importing and document.
 
+hi
