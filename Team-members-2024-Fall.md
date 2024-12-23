@@ -24,6 +24,9 @@ For a document that organizes by project, please see [here](https://github.com/C
   - Explore AI collaboration for the creation of these assetsartificial intelligence.
   - Contribute to the asset library for this project
 
+- **Study Type**: Internship
+- **Proposal**: [AI Content Generation for Blended Shadow Puppet Theatre]()
+
 ### Tshari Yancey  
 - **Study Type**: Emerging Scholar
 - **Proposal**: [Reimagining Wayang Kulit: A Modern Storytelling Approach](https://docs.google.com/document/d/1rmCygzSqFIW71gwrwRgOOHxS-eqSIdOP1MMM0oZSp9o/edit?usp=sharing)
