@@ -15,8 +15,9 @@ For a document that organizes by project, please see [here](https://github.com/C
 
 ### Sam Cheung  
 - **Study Type**: Culmination Project  
-- **Project**: Creating a Twine interactive game based on the BSP core story  
-- **Focus**: Using AI to create imagery for the game  
+- **Project**: [Creating a Twine interactive game based on the BSP core story](https://www.dropbox.com/scl/fi/uw5lki48zryk9rvl7d19a/Samuel-Cheung-Culmination-Project-Proposal-2024-Fall.docx?rlkey=aivwcvu0hs93dt6vsky3d8209&dl=0)  
+- **Focus**: Using AI to create imagery for the game
+- **Deliverable**:[Link to Kathanra Game](https://eriol-earthart.itch.io/world-of-kathanra)
 
 - **Study Type**: Emerging Scholar  
 - **Proposal**: [Exploring Artificial Intelligence in Blended Shadow Puppet](https://www.dropbox.com/scl/fi/idemrtr2im9w5b7wpkqgj/Cheung-Sam-ESP-Proposal-2024-Fall.docx?rlkey=f92lyxdu4ipeugnn492p38734&st=7unacdf0&dl=0)
