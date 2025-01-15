@@ -60,7 +60,7 @@ For a document that organizes by project, please see [here](https://github.com/C
   
 ### Anthony Navarro  
 - **Study Type**: Internship  
-- **Project**: [Live Sound Engineering for Blended Shadow Puppet Theatre (BSPT)](https://docs.google.com/document/d/1pVfn8B1TqrQNmJ44UVW2rspqUWiWgy9w2FmLZ3M84Ps/edit?usp=sharing)  
+- **Project**: [Live Sound Engineering for Blended Shadow Puppet Theatre (BSPT)](https://docs.google.com/document/d/1URn0aAgh6Zb1gfQ9luQx7Qkfs5Up1zE2tPeN0afadeY/edit?usp=sharing)
 - **Focus Areas**:  
   - Live Sound Engineering  
   - Voiceover Recording  
