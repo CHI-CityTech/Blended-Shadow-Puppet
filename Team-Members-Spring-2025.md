@@ -9,3 +9,4 @@ Cordell - Lane - Lumbra Chess like game development. Narrative. World Building. 
 Hugo Sanchez - Unity Asset importing and document.  
 Rodrigo Vega  -  [Unreal Shadow Puppet Stage](https://github.com/CHI-CityTech/Unreal-BSP/blob/main/Proposals/Vega-R-Internship%20Proposal.md)  
 John Powell - Narrative design and Character Development in the BSP world
+Kevin Pintado - Web development specifics TBA
