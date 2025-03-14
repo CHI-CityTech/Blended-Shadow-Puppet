@@ -1,1 +1,5 @@
-Please fill this in with more detail.   
+This repository holds materials related to the development of a puppet control system that relies on AI to move the [puppets. We start with the world of Wayang Kulit, or Javanese shadow puppet theatre as it is interpreted within the Blended Shadow Puppet Theatre project.   The aim is to capture a library of human-made puppet actions, design and develop a controlling system that manipulates a physical puppet, and then to train an AI to make similar movements.  In order to test the concept, we start with a smallest possible proof-of-concept: the waving of a couple branches in a tree, or the wagging of a tail.  We further will test AI control first in a virtual environment that simulates the behavior of a physical puppet.  From there we move on to extend this control to teh physical realm.   
+
+Here is where to insert names, links, and further descriptions of the repository and the material it contains.
+
+
