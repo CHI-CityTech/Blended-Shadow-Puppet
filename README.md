@@ -4,6 +4,7 @@
 
 [Fall 2024 Student Participants](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/Team-members-2024-Fall.md)  
 [Fall 2024 Projects](https://github.com/CHI-CityTech/Blended-Shadow-Puppet/blob/main/Project-Activity-2024-Fall.md)  
+[Spring 2024 Digital Puppet templates and photographs](https://www.dropbox.com/scl/fo/7scjon5legivqvy4bbaat/h?rlkey=9bdykvv5l9jpui8s49vddvgho&dl=0)  
 
 ## BSP Project Activities Overview
 
