@@ -2,4 +2,4 @@ This repository holds materials related to the development of a puppet control s
 
 _Here is where to insert names, links, and further descriptions of the repository and the material it contains._
 
-
+[Link to raw Shadow Puppet Digital Files](https://www.dropbox.com/scl/fo/7scjon5legivqvy4bbaat/h?rlkey=9bdykvv5l9jpui8s49vddvgho&dl=0)  
